@@ -5,7 +5,7 @@ depends:
   plugin:
   - command
   - gui
-version: '1.0'
+version: 0.0.1
 author: moguno
 name: 華麗なるコンボ攻撃：ふぁぼ => リツイート
 description: ふぁぼってないつぶやきは、まずふぁぼります。ふぁぼってるメッセーはリツイートします。ショートカットキーにアサインするとワンキーで段階的に賞賛出来ます。
